@@ -43,6 +43,8 @@ godot --headless --path . --export-debug Android builds/YolKavga-debug.apk
 
 `.github/workflows/android.yml` Godot ve Android araçlarını kurar, kaynak varlıkları içe aktarır, oynanış kontrolünü çalıştırır, debug APK üretir, imzayı doğrular ve APK'yi artifact olarak saklar. Kaynak repoya APK veya anahtar eklemez. Yeni bir CI çalışmasında yeni debug anahtarı üretilir; farklı anahtarla imzalanmış eski APK telefonda yüklüyse yeni paket için önce eskisini kaldırman gerekebilir.
 
+Bir APK'yi Releases'a eklemek için önce GitHub'da ilgili sürüm için bir **draft release** hazırla. **Actions → Android APK → Run workflow** ekranında `release_tag` alanına sürüm etiketini, örneğin `v0.1.0`, yaz. Tüm kontroller ve imza doğrulaması başarılı olunca ayrı release işi APK ve checksum dosyasını taslağa yükler, ardından sürümü yayınlar. Alan boş bırakılırsa yalnızca build artifact'i oluşur.
+
 ## Telefonda kontrol
 
 1. APK'yi kur ve yatay ekran açılışını kontrol et.
