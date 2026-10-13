@@ -196,6 +196,175 @@
       "bytes": 30613
     },
     {
+      "path": "assets/highway/overhead.glb",
+      "package": "racing-kit",
+      "source": "https://kenney.nl/assets/racing-kit",
+      "license": "CC0-1.0",
+      "sha256": "8c38e92377eaeafee28a88f9fe10a580f1da984d3fa6b4b35c08ed62e2db6ff2",
+      "bytes": 9188
+    },
+    {
+      "path": "assets/highway/rail.glb",
+      "package": "racing-kit",
+      "source": "https://kenney.nl/assets/racing-kit",
+      "license": "CC0-1.0",
+      "sha256": "c60d60e34b675d5d832d91c6f5d7c125a1020953c2e22dbcd1215397990aaaf4",
+      "bytes": 5940
+    },
+    {
+      "path": "assets/highway/railDouble.glb",
+      "package": "racing-kit",
+      "source": "https://kenney.nl/assets/racing-kit",
+      "license": "CC0-1.0",
+      "sha256": "0f0c9b76ee9f384404aef6781438721512f7a4791a35fd27bb32f0ca75f9272f",
+      "bytes": 8656
+    },
+    {
+      "path": "assets/highway/roadSide.glb",
+      "package": "racing-kit",
+      "source": "https://kenney.nl/assets/racing-kit",
+      "license": "CC0-1.0",
+      "sha256": "8bd1906efe075d91abf8d8936e4805eabf3e26cd3d7f26e7b911d11a9687becf",
+      "bytes": 6276
+    },
+    {
+      "path": "assets/nature/Textures/leafy_grass_diff_1k.jpg",
+      "package": "leafy-grass",
+      "source": "https://polyhaven.com/a/leafy_grass",
+      "license": "CC0-1.0",
+      "sha256": "cfa40bc9d9417d1852db8753a8d5917f110c40101179f63543c382e39bc05e4a",
+      "bytes": 1195394,
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg"
+    },
+    {
+      "path": "assets/nature/cliff_blockSlope_rock.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "82fe2e0477c7ce2c5994435f44074022cb2a36f56ff40bd34598cbfc87286885",
+      "bytes": 6720
+    },
+    {
+      "path": "assets/nature/flower_redA.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "171930b7789ddbf735af3745576b5393750beb9133b9ff4a444bb6bb2986c020",
+      "bytes": 7104
+    },
+    {
+      "path": "assets/nature/flower_yellowA.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "8a3b08cd2ca411c21f9c581d5bda651d78b13c50cba45ad8fa0389398ead6d1d",
+      "bytes": 7120
+    },
+    {
+      "path": "assets/nature/grass_large.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "af49a595624abca7249824eeefb944d4baf974abeeb5b16110d175da3563d6cd",
+      "bytes": 18504
+    },
+    {
+      "path": "assets/nature/grass_leafs.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "8bc4c0b17c2e64c34e1acbf7c4a2fd8c04cfcd7155328e61767887b2ced112c7",
+      "bytes": 4608
+    },
+    {
+      "path": "assets/nature/ground_grass.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "da741e8ab34ca70c0c85ccda21538558a798188db2f1e265885bcdd226a5cca2",
+      "bytes": 1576
+    },
+    {
+      "path": "assets/nature/plant_bushDetailed.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "2e0487020d68ccf664435db9d829c78ae00e6d2785ee3ec10b9f89cc70a10406",
+      "bytes": 10172
+    },
+    {
+      "path": "assets/nature/plant_bushLarge.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "10e1d9fbf29d96d1d1a56fb2ce25ae66537505101759229afe01ae22c6c45e02",
+      "bytes": 6436
+    },
+    {
+      "path": "assets/nature/rock_largeA.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "6dd15390fd96501dcd1454765a17ba61dbbd8d47705dfe5149c8dd92b353ce25",
+      "bytes": 7552
+    },
+    {
+      "path": "assets/nature/rock_largeC.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "23aee8b727adeaf260207af3e0615dc69aa766c6d87de1d44cbc8c2711d74dd1",
+      "bytes": 7004
+    },
+    {
+      "path": "assets/nature/tree_default_dark.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "f2dc452b8fa98e68e3f892526b7d3f5e8d27d6acf4dd3c6f4b3795d64b879cce",
+      "bytes": 9436
+    },
+    {
+      "path": "assets/nature/tree_detailed.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "c041daf2f0fb1d49e4325227cbcd58667adbe51e9b55e8c1f0a94b74cc521b3b",
+      "bytes": 31412
+    },
+    {
+      "path": "assets/nature/tree_oak.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "d7fd8773674928c50c11b66d12c636d49bdcc15a8b1c7fbb98e6f63a3439a3f3",
+      "bytes": 14644
+    },
+    {
+      "path": "assets/nature/tree_pineRoundA.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "7dc9711f31585eafdcb965d0649c30af5e19f2def1955f7a915081d30759ef8e",
+      "bytes": 14488
+    },
+    {
+      "path": "assets/nature/tree_pineTallA.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "e0a56eb196d8a64ba86c7304d607136e17e6f9ad748dffcf86bd53b18b91b196",
+      "bytes": 7200
+    },
+    {
+      "path": "assets/nature/tree_small.glb",
+      "package": "nature-kit",
+      "source": "https://kenney.nl/assets/nature-kit",
+      "license": "CC0-1.0",
+      "sha256": "d26c0eeed65cc681667f50042ef23ec72ce47ae3b39837bfeec170b05ba6ab6a",
+      "bytes": 6500
+    },
+    {
       "path": "assets/roads/Textures/colormap.png",
       "package": "city-kit-roads",
       "source": "https://kenney.nl/assets/city-kit-roads",
@@ -250,6 +419,15 @@
       "license": "CC0-1.0",
       "sha256": "23f54fced68c7647f6d851c8080791b56e2a7e7f541eac2e95c647006a5901c4",
       "bytes": 2800
+    },
+    {
+      "path": "assets/sky/kloofendal_48d_partly_cloudy_puresky_1k.hdr",
+      "package": "kloofendal-48d-pure-sky",
+      "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+      "license": "CC0-1.0",
+      "sha256": "fd94c84997b8a3c353b62c2125a9b44e19509956986a126e472684432a02d798",
+      "bytes": 1435119,
+      "download": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloofendal_48d_partly_cloudy_puresky_1k.hdr"
     },
     {
       "path": "assets/ui/blue/arrow_basic_e.png",

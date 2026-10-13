@@ -589,14 +589,14 @@ func show_help() -> void:
 	back.grab_focus()
 
 func show_credits() -> void:
-	var card := open_modal("EMEĞİ GEÇENLER", 535)
-	var body := label(card, "KENNEY  /  CC0\nAraçlar, yol ve şehir modelleri, arayüz, efektler, sesler.\n\nQUATERNIUS  /  CC0\nUltimate Modular Men: hazır karakterler ve dövüş animasyonları.\n\nBARLOW CONDENSED  /  SIL OPEN FONT LICENSE\nJeremy Tribby · Yazı tipi.\n\nGODOT ENGINE  /  MIT\nGodot 4.6 · Android uyumlu oyun motoru.", 22, PAPER)
+	var card := open_modal("EMEĞİ GEÇENLER", 610)
+	var body := label(card, "KENNEY  /  CC0\nAraçlar, doğa, yol modelleri, arayüz, efektler ve sesler.\n\nQUATERNIUS  /  CC0\nUltimate Modular Men: hazır karakterler ve dövüş animasyonları.\n\nPOLY HAVEN  /  CC0\nBulutlu gökyüzü ve doğal çim dokusu.\n\nBARLOW CONDENSED  /  SIL OPEN FONT LICENSE\nJeremy Tribby · Yazı tipi.\n\nGODOT ENGINE  /  MIT\nGodot 4.6 · Android uyumlu oyun motoru.", 20, PAPER)
 	body.position = Vector2(32, 92)
 	body.size.x = 576
 	body.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
-	label(card, "Tam kaynak listesi ve lisans metinleri repoda: docs/ASSETS.md", 18, MUTED).position = Vector2(32, 423)
+	label(card, "Tam kaynak listesi ve lisans metinleri repoda: docs/ASSETS.md", 18, MUTED).position = Vector2(32, 493)
 	var back := button(card, "GERİ", "yellow", close_modal)
-	back.position = Vector2(32, 462)
+	back.position = Vector2(32, 535)
 	back.size = Vector2(576, 48)
 	back.grab_focus()
 

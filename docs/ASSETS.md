@@ -9,6 +9,10 @@ Tüm modeller, karakter animasyonları, düğme görselleri, darbe efektlerinin 
 | Car Kit | Açık kasalı truck-flat, trafik araçları, araç prop'ları; `assets/vehicles/` | [Kenney Car Kit](https://kenney.nl/assets/car-kit) | CC0 1.0 |
 | City Kit Roads | Yol, zemin, aydınlatma modelleri; `assets/roads/` | [Kenney City Kit Roads](https://kenney.nl/assets/city-kit-roads) | CC0 1.0 |
 | City Kit Suburban | Binalar, ağaçlar; `assets/city/` | [Kenney City Kit Suburban](https://kenney.nl/assets/city-kit-suburban) | CC0 1.0 |
+| Nature Kit | Çim zemin, ağaçlar, çalılar, otlar, çiçekler, kayalar ve tepe olarak kullanılan hazır kaya modelleri; `assets/nature/*.glb` | [Kenney Nature Kit](https://kenney.nl/assets/nature-kit) | CC0 1.0 |
+| Racing Kit | Çevre yolu metal bariyerleri; `assets/highway/` | [Kenney Racing Kit](https://kenney.nl/assets/racing-kit) | CC0 1.0 |
+| Kloofendal 48d Partly Cloudy — Pure Sky | Hazır 1K bulutlu gökyüzü HDR panoraması; `assets/sky/` | [Poly Haven, Greg Zaal ve Jarod Guest](https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky) | CC0 1.0 |
+| Leafy Grass | Hazır 1K çim diffuse dokusu; `assets/nature/Textures/leafy_grass_diff_1k.jpg` | [Poly Haven, Charlotte Baglioni](https://polyhaven.com/a/leafy_grass) | CC0 1.0 |
 | UI Pack | Hazır düğme ve bar dokuları, yıldız uygulama simgesi; `assets/ui/` | [Kenney UI Pack](https://kenney.nl/assets/ui-pack) | CC0 1.0 |
 | Particle Pack | Darbe sırasında gösterilen hazır yıldız ve kıvılcım dokuları; `assets/fx/` | [Kenney Particle Pack](https://kenney.nl/assets/particle-pack) | CC0 1.0 |
 | Impact Sounds | Yumruk, tekme ve savunma sesleri; `assets/audio/impact*.ogg` | [Kenney Impact Sounds](https://kenney.nl/assets/impact-sounds) | CC0 1.0 |
@@ -28,6 +32,10 @@ Quaternius'un resmi sayfasındaki Google Drive klasörü bu oturumda indirme kot
 Bu kopyalar orijinal modelleri ve `Idle`, `Walk`, `Punch_Left/Right`, `Kick_Left/Right`, `HitRecieve`, `Death`, `Sword_Slash`, `Wave` dahil hazır animasyonları içerir. Animasyonlar kodla çizilmez veya yeniden üretilmez.
 
 ## Lisanslar
+
+0.2.0 çevre güncellemesinde kaynak GLB, JPG ve HDR dosyaları değiştirilmeden kullanılır. Kenney'nin turkuaz varsayılan doğa malzemeleri Godot sahnesinde meşe, çam, çim ve toprak için ortak doğal renk malzemelerine bağlanır. Tepeler hazır kaya modellerinin sahnede ölçeklenmesiyle kurulur; yeni mesh üretilmez. Zemin hazır çim dokusunu tekrarlar ve trafik hızıyla kaydırır. Yol çizgileri özgün Kenney colormap dokusundan gelir. Bu ayarlar `scenes/arena.tscn` içindeki standart Godot malzemeleridir.
+
+Poly Haven'ın [lisans sayfası](https://polyhaven.com/license), indirilen panorama ve çim dokusunun CC0 kullanım ve yeniden dağıtım koşullarını açıklar. Bildirim ve CC0 metni `assets/licenses/poly-haven-CC0.txt` ile APK içine de eklenir.
 
 CC0 paketleri ücretsiz kullanım ve yeniden dağıtım için kamu malı beyanıyla sunulur; zorunlu atıf olmasa da üreticiler oyun içindeki **Emeği Geçenler** ekranında belirtilir. Yazı tipinin OFL metni de korunur. Bu, royalty-free hazır varlık kullanımıdır; tüm içeriklerin aynı lisanslı olduğu anlamına gelmez.
 

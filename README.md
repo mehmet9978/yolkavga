@@ -10,7 +10,9 @@ Godot **4.6.3**, 3D sahne, yatay ekran, Türkçe arayüz ve çoklu dokunmatik ko
 
 ## Oyunda neler var?
 
-- Akan trafik, şehir manzarası ve açık kasalı kamyonet.
+- İki yönde akan trafik, yeşil çevre yolu ve açık kasalı kamyonet.
+- Dokulu çim alanlar, meşe ve çamlar, çalılar, otlar, çiçekler ve yeşil tepeler.
+- Çim refüj, kesintisiz metal bariyerler, yön tabelaları ve hazır bulutlu gökyüzü panoraması.
 - Hazır yumruk, tekme, darbe alma, düşme ve özel hareket animasyonları.
 - Can barları, 60 saniyelik raundlar, iki raund kazanınca biten maç.
 - Savunma, vuruş serileri, biriktirilen **Tantana** özel hareketi.

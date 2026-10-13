@@ -30,9 +30,15 @@ func run() -> void:
 			game.show_settings()
 		elif mode == "help":
 			game.show_help()
+		elif mode == "credits":
+			game.show_credits()
+		elif mode == "landscape":
+			# Inspect scenery after a full minute, including multiple wraps.
+			for frame in range(3600):
+				game.arena._process(1.0 / 60.0)
 	await create_timer(0.5).timeout
 	await RenderingServer.frame_post_draw
-	root.get_texture().get_image().save_png("/workspace/yolkavga/docs/" + mode + ".png")
+	root.get_texture().get_image().save_png(ProjectSettings.globalize_path("res://docs/" + mode + ".png"))
 	print("PREVIEW: " + mode)
 	game.queue_free()
 	await process_frame
