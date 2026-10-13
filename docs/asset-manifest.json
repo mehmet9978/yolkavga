@@ -1,0 +1,719 @@
+{
+  "downloaded": "2026-10-13",
+  "assets": [
+    {
+      "path": "assets/audio/click_001.ogg",
+      "package": "interface-sounds",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+      "bytes": 4876
+    },
+    {
+      "path": "assets/audio/confirmation_001.ogg",
+      "package": "interface-sounds",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+      "bytes": 8968
+    },
+    {
+      "path": "assets/audio/error_001.ogg",
+      "package": "interface-sounds",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "sha256": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433",
+      "bytes": 7373
+    },
+    {
+      "path": "assets/audio/impactMetal_heavy_000.ogg",
+      "package": "impact-sounds",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0",
+      "sha256": "e07045693e4a2b3d165c424e3dab4c781d9ff8880a386880ac89a51315d7f831",
+      "bytes": 6110
+    },
+    {
+      "path": "assets/audio/impactPunch_heavy_000.ogg",
+      "package": "impact-sounds",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0",
+      "sha256": "b33a8f14068aec24ec69ba85e5e87fdc41228975f6a1a3e44a6e7d6fc3d9f8d8",
+      "bytes": 11617
+    },
+    {
+      "path": "assets/audio/impactPunch_medium_000.ogg",
+      "package": "impact-sounds",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0",
+      "sha256": "486988aa2d6440ffc4c62a0e8ccf3c23673ba84424bd4723378d451b7255eb5c",
+      "bytes": 8800
+    },
+    {
+      "path": "assets/characters/casual-character.glb",
+      "package": "ultimate-modular-men",
+      "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+      "license": "CC0-1.0",
+      "sha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+      "bytes": 1430660,
+      "download": "https://raw.githubusercontent.com/euuuuuuan/fatal-funnel-public/main/packages/renderer/assets/models/quaternius-men/casual-character.glb"
+    },
+    {
+      "path": "assets/characters/worker.glb",
+      "package": "ultimate-modular-men",
+      "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+      "license": "CC0-1.0",
+      "sha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+      "bytes": 1344928,
+      "download": "https://raw.githubusercontent.com/euuuuuuan/fatal-funnel-public/main/packages/renderer/assets/models/quaternius-men/worker.glb"
+    },
+    {
+      "path": "assets/city/Textures/colormap.png",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "9b5de86078c25ef02351a80d35ff3c978693a1044565b73eedd9ae9b5b80665d",
+      "bytes": 11784
+    },
+    {
+      "path": "assets/city/building-type-a.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "49f32e20b9dcd24b1c8f6d6488807b8c8cb684cbb595bfb0bb36ad903e470faa",
+      "bytes": 98604
+    },
+    {
+      "path": "assets/city/building-type-b.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "a964a10c51bb334be677657fd8fa483531974dd15b4243575990192818e2300e",
+      "bytes": 146720
+    },
+    {
+      "path": "assets/city/building-type-d.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "a41cd28265b2b224e700373c3a8356562619699998b7fa4d70ed41de629a6731",
+      "bytes": 147368
+    },
+    {
+      "path": "assets/city/building-type-f.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "6f778f50d7f03c86f9a018e428cf8ffdd9e918df09954c0651d1c9559584a22b",
+      "bytes": 138536
+    },
+    {
+      "path": "assets/city/building-type-g.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "f497a7bc3a8e6b6273ba99f090042d1cfb3141da57d3c51998c57a479a0ece11",
+      "bytes": 93596
+    },
+    {
+      "path": "assets/city/fence.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "073bd2000ac51879516d49f835d5156dac4d5038085380b1232858fc3f562d02",
+      "bytes": 9672
+    },
+    {
+      "path": "assets/city/tree-large.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "16d1f95c149bc727a953a473cf20bf21de9bf1a88747c4f9d2eeb4ac7d43e291",
+      "bytes": 5812
+    },
+    {
+      "path": "assets/city/tree-small.glb",
+      "package": "city-kit-suburban",
+      "source": "https://kenney.nl/assets/city-kit-suburban",
+      "license": "CC0-1.0",
+      "sha256": "5f63359e5f392609d7617cc98070855ca1ffd4f4b4bc3978a5ff56ece88a58d6",
+      "bytes": 5812
+    },
+    {
+      "path": "assets/fonts/BarlowCondensed-Bold.ttf",
+      "package": "barlow-condensed",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+      "license": "OFL-1.1",
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "bytes": 109912
+    },
+    {
+      "path": "assets/fonts/BarlowCondensed-Regular.ttf",
+      "package": "barlow-condensed",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+      "license": "OFL-1.1",
+      "sha256": "583cec5da3b84bc4dc7c9c72e2a565c94d34e431518b19d7e250b7830ad5f996",
+      "bytes": 102480
+    },
+    {
+      "path": "assets/fonts/BarlowCondensed-SemiBold.ttf",
+      "package": "barlow-condensed",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+      "license": "OFL-1.1",
+      "sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9",
+      "bytes": 109428
+    },
+    {
+      "path": "assets/fx/slash_02.png",
+      "package": "particle-pack",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "license": "CC0-1.0",
+      "sha256": "a79a9e297790e6126b78d41015a3045cda3f1863b421c88321d2442ed6f9032e",
+      "bytes": 38224
+    },
+    {
+      "path": "assets/fx/smoke_01.png",
+      "package": "particle-pack",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "license": "CC0-1.0",
+      "sha256": "e8724c219e8d35859167fc0a7e207e13c72ccf0c29704909b9bb3d3dc71c6cf7",
+      "bytes": 97452
+    },
+    {
+      "path": "assets/fx/spark_06.png",
+      "package": "particle-pack",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "license": "CC0-1.0",
+      "sha256": "fe6d473393d3b9350c7a654b7cb5fbd343766b5b5b11d3e4aba476832d4a6d3f",
+      "bytes": 46347
+    },
+    {
+      "path": "assets/fx/star_04.png",
+      "package": "particle-pack",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "license": "CC0-1.0",
+      "sha256": "6485ac16c773663bd39346f3bedae04465ac14c661eb47cc5cfa935cdbf6c2ec",
+      "bytes": 30613
+    },
+    {
+      "path": "assets/roads/Textures/colormap.png",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "a48e2962661ae44368ffddf3054f80ed8491d082b757dcc3011184cd9a98b185",
+      "bytes": 11428
+    },
+    {
+      "path": "assets/roads/light-curved.glb",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "154dcce9d58ec2cd165e26c91a89c97bdd2838cf06d255099b3570df84f82ec6",
+      "bytes": 9492
+    },
+    {
+      "path": "assets/roads/road-side-barrier.glb",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "35101d5cb8774c51b7203fabefc04c49335a5e54ef30e5ae5b858cbf0a3a2f9d",
+      "bytes": 4200
+    },
+    {
+      "path": "assets/roads/road-straight-barrier.glb",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "eeaf5469bb34b94e3edaf71c5d7c9da152c0a398f86c9ec6c234a82a42833e4e",
+      "bytes": 4196
+    },
+    {
+      "path": "assets/roads/road-straight.glb",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "f8f744fb6fc96dedd5ad1f763b550166f2624a3757bf36b4b39969d2e7cacac5",
+      "bytes": 5248
+    },
+    {
+      "path": "assets/roads/sign-highway-detailed.glb",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "122d293bc9ee3378ab2492242ac615fee1c791066ec747599829a801f6a5b99d",
+      "bytes": 23532
+    },
+    {
+      "path": "assets/roads/tile-low.glb",
+      "package": "city-kit-roads",
+      "source": "https://kenney.nl/assets/city-kit-roads",
+      "license": "CC0-1.0",
+      "sha256": "23f54fced68c7647f6d851c8080791b56e2a7e7f541eac2e95c647006a5901c4",
+      "bytes": 2800
+    },
+    {
+      "path": "assets/ui/blue/arrow_basic_e.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "5517436e154ef58b64ae46ebac37ab1b8a8df8ef3e9220b4154e78acde0221da",
+      "bytes": 422
+    },
+    {
+      "path": "assets/ui/blue/arrow_basic_w.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "576db7b4e55f6937306d0fa56ea4da000aeaf4f53891fa967d2bd7dc0a83950f",
+      "bytes": 402
+    },
+    {
+      "path": "assets/ui/blue/button_rectangle_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "6c709a45aae0330ffff5b060d9f14cc2297839f664e0a4c9e516d90ad085ec0b",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/blue/button_rectangle_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "83084c953e57d7506f90600df77f36a8c6156abea0b8ea0e4b3885a596cee2c8",
+      "bytes": 315
+    },
+    {
+      "path": "assets/ui/blue/button_round_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "49bdaa6172e3670fa6c1cfb347fd7fdc7fb8bdd2c5e75b0429c41e4309c85541",
+      "bytes": 1301
+    },
+    {
+      "path": "assets/ui/blue/button_round_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "4a6152ea102d48a0a7fc6809196c174dd2eda7b0e705d1451d61695d049bb956",
+      "bytes": 1023
+    },
+    {
+      "path": "assets/ui/blue/button_square_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "7f113aa488dee62009fe7b7043b51672c9845d5d0dd0c856d8aa179c91a9c688",
+      "bytes": 355
+    },
+    {
+      "path": "assets/ui/blue/icon_checkmark.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "82a5c1c3dfe9a704e9f5f220c9510b622c77c2207c226b41728978c2335b1f3b",
+      "bytes": 377
+    },
+    {
+      "path": "assets/ui/blue/icon_cross.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "32eea5ea58f44f15c82691cad35406b32dfad7c3c1152d633dcd74a25e430d48",
+      "bytes": 350
+    },
+    {
+      "path": "assets/ui/blue/slide_horizontal_color.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "5e4336d1d816aefd6a17441ea190bacdab54705b560b59f0e54f5449f46c8798",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/blue/slide_horizontal_grey.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "a80f54d81912dcac6827b8b71bb81f6b8b8a0c190573006aee9612d6bbd91618",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/green/button_rectangle_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "0aad0fc500f42740ba1976ee01e9649164584e12e7ef672ac04bb03f013cc52c",
+      "bytes": 314
+    },
+    {
+      "path": "assets/ui/green/button_round_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "cd7ed8446fc122a17e7a8a3e66c6c4b9a1a274bd692a59d5ad612177134e424c",
+      "bytes": 1023
+    },
+    {
+      "path": "assets/ui/grey/arrow_basic_e.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "cf92cc03279e3945b91b7654f2941cb746e36b54e63c4b39ad30d02fad4ecda8",
+      "bytes": 422
+    },
+    {
+      "path": "assets/ui/grey/arrow_basic_w.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "57beca3a39ac7debc1cca92e89c6fbe5223134e81438ee6108395c7eb4527dde",
+      "bytes": 402
+    },
+    {
+      "path": "assets/ui/grey/button_rectangle_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "7de9ba1d4bca313fd2c02e3595f3d699c1201d84d70a3c69828e56782d585ce7",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/grey/button_rectangle_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "c91ee37858be6035143a8ae26588741e9350e5f42aed548e3ee00910092239e8",
+      "bytes": 315
+    },
+    {
+      "path": "assets/ui/grey/button_round_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "b05e6488e5b67f8b30e9ad28217320c3c97ef4ebd458ab627ae6200987fa2095",
+      "bytes": 1295
+    },
+    {
+      "path": "assets/ui/grey/button_round_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "cb8686e58029acebee9cdd5c877c0a26c065ced76caff01c6c5c0e13d9a65e91",
+      "bytes": 1018
+    },
+    {
+      "path": "assets/ui/grey/button_square_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "381aa4900b97e21422460bdb7003d321846c2ae430c10661d4d97618bbbb9df6",
+      "bytes": 355
+    },
+    {
+      "path": "assets/ui/grey/icon_checkmark.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "bcc81a549873637299ce71085948339e17f4faac927a319fe68bf3c2dc9dde15",
+      "bytes": 377
+    },
+    {
+      "path": "assets/ui/grey/icon_cross.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "37ac947fa3871df803773f2d006d50ba456167cfc76a167963d4d1f67ebcf9c6",
+      "bytes": 350
+    },
+    {
+      "path": "assets/ui/grey/slide_horizontal_color.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "9699b3a66961ddb53f2ea7765d9b654fefd0cab6aea6a986c3fb4d8ed8dcbee1",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/grey/slide_horizontal_grey.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "a80f54d81912dcac6827b8b71bb81f6b8b8a0c190573006aee9612d6bbd91618",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/red/arrow_basic_e.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "3353d3243656f52c207c7590bf96c3a461e94cb1f07d8361b422dffc9d0e6684",
+      "bytes": 422
+    },
+    {
+      "path": "assets/ui/red/arrow_basic_w.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "79eab44f6e11a55d56823fcccf60b78920e95e5ebba446007ea7882ca6ee93cd",
+      "bytes": 402
+    },
+    {
+      "path": "assets/ui/red/button_rectangle_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "8dd648ea9b80a780fb387c235d4f6bbdadd4f4768c663639edb2c7e5174a69f0",
+      "bytes": 384
+    },
+    {
+      "path": "assets/ui/red/button_rectangle_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "da068c818f56b3d4cbfa3c8c1cef969bc1546918d44de492771cfec023914f62",
+      "bytes": 315
+    },
+    {
+      "path": "assets/ui/red/button_round_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "b4eb26b0a0618db59d2734ff6ef3ee07ba99d214b5a736c9da20393185390f2f",
+      "bytes": 1301
+    },
+    {
+      "path": "assets/ui/red/button_round_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "fbedd7d1d143bf8d53e2a537d967bd36653e5178043f7e752f541e886d1dccbc",
+      "bytes": 1023
+    },
+    {
+      "path": "assets/ui/red/button_square_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "2b56eb96a365093b91ca0261aa002830faf17ee2a9e904a658dec8202afe7371",
+      "bytes": 355
+    },
+    {
+      "path": "assets/ui/red/icon_checkmark.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "943bf9b61f57355f68fad05d35ae7e433eb2ca3722042cffd47a6388444af2af",
+      "bytes": 377
+    },
+    {
+      "path": "assets/ui/red/icon_cross.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "a82d428cfe4e89c11317533e6b4fd6566d236f0bc0e816f8659a822e37241202",
+      "bytes": 350
+    },
+    {
+      "path": "assets/ui/red/slide_horizontal_color.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "ec0f3985e8c2242974d6c860032ea652cd940f813c035a39135c17802dece20f",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/red/slide_horizontal_grey.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "a80f54d81912dcac6827b8b71bb81f6b8b8a0c190573006aee9612d6bbd91618",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/yellow/arrow_basic_e.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "8c842ea2ae6d4eec79afc6c2400a5ccf4c65fa4ac06cc6de9b9b463e38dbebe3",
+      "bytes": 422
+    },
+    {
+      "path": "assets/ui/yellow/arrow_basic_w.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "8257ab4b4cb94ffa0172d39582ce7687a6f1c3541cb398921ac8c43f93454baa",
+      "bytes": 402
+    },
+    {
+      "path": "assets/ui/yellow/button_rectangle_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "477f043f3e7ccb079ed82d929f0e3d7bb091a97f4a975cdba19fca1745c4c9ee",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/yellow/button_rectangle_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "5165ec1bcc82ebaba20fe3c47d4ee1a6913f3f11c3fe330de281246eaaf30feb",
+      "bytes": 315
+    },
+    {
+      "path": "assets/ui/yellow/button_round_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "2cb8b2a020461f419d5f400834ed8cc8cb0bca37b8ee8fd22b7be553d923c85e",
+      "bytes": 1300
+    },
+    {
+      "path": "assets/ui/yellow/button_round_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "b42114cc62bc588905f91962e5601f06de22d97bd2fe5ed4aa8763541f8b2430",
+      "bytes": 1023
+    },
+    {
+      "path": "assets/ui/yellow/button_square_depth_flat.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "2a11dda4a71d3a82512c594f08d4c97ac6c9bb2ee0ef54762e2015514b488944",
+      "bytes": 355
+    },
+    {
+      "path": "assets/ui/yellow/icon_checkmark.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "303ea985694cecb6c05e74a4c3f3abbd2dcebeee90900dab19d2a06122133c5c",
+      "bytes": 377
+    },
+    {
+      "path": "assets/ui/yellow/icon_cross.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "02d0a2c4e5046ae689209de201e7e8df532c1c7673363cb9b3e20d0bd19700cf",
+      "bytes": 350
+    },
+    {
+      "path": "assets/ui/yellow/slide_horizontal_color.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "91e4453bad1daa687e8380cbf38ed52f763c7c9424cbd7b6db0fcc444d454566",
+      "bytes": 382
+    },
+    {
+      "path": "assets/ui/yellow/slide_horizontal_grey.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "a80f54d81912dcac6827b8b71bb81f6b8b8a0c190573006aee9612d6bbd91618",
+      "bytes": 383
+    },
+    {
+      "path": "assets/ui/yellow/star.png",
+      "package": "ui-pack",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "license": "CC0-1.0",
+      "sha256": "9296db5d197a842bc8b9d52dfca39c3c2881dd45d6ce3cbcd6635af5152fcec6",
+      "bytes": 1593
+    },
+    {
+      "path": "assets/vehicles/Textures/colormap.png",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "f3622a03a20c6696065cae9cbe391351be873508af190c2ebd1d420c055787a5",
+      "bytes": 12371
+    },
+    {
+      "path": "assets/vehicles/box.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "b773815c791d2708a2a70f1a9bb6d197d7211269ad96e273f9e364ea536c1b18",
+      "bytes": 14108
+    },
+    {
+      "path": "assets/vehicles/cone.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "d6659fc365de47c5d056b14f3d3fb3e191d3a5b869c43171753621dcf14b76bd",
+      "bytes": 16696
+    },
+    {
+      "path": "assets/vehicles/debris-door.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "c62ab01c07be9be5dfc0f940dbc933fa836019ea1bc8fd0baa2d0e52cd764ea2",
+      "bytes": 7052
+    },
+    {
+      "path": "assets/vehicles/delivery-flat.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "2973152df7699767692ce890b3a0845a11333a52a23aa74b86a12ed443254c1b",
+      "bytes": 214456
+    },
+    {
+      "path": "assets/vehicles/police.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "a617b880594f56239b7ac4cf6fd4d74ebdae3ba6c5d842e77c76a5906eff352a",
+      "bytes": 195336
+    },
+    {
+      "path": "assets/vehicles/sedan.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "b532ea7d2c59f7f6b22b138cf1955218a2c1898f1cea932af4d3fd563c3959b7",
+      "bytes": 172216
+    },
+    {
+      "path": "assets/vehicles/suv.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "9df31f6e89e927a8176fc792aa125f0b19dc1ba29d2025bfef7c4f4d6ab1778a",
+      "bytes": 207572
+    },
+    {
+      "path": "assets/vehicles/taxi.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "3803539718ffd3b84b515dbce8ed6b489f1ff5be58edb1903d2c5db5c584bdc7",
+      "bytes": 175608
+    },
+    {
+      "path": "assets/vehicles/truck-flat.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "4279862f2442e96c6603c514edf50bfb932707545695d8c4747611cd3796cf3b",
+      "bytes": 207424
+    },
+    {
+      "path": "assets/vehicles/van.glb",
+      "package": "car-kit",
+      "source": "https://kenney.nl/assets/car-kit",
+      "license": "CC0-1.0",
+      "sha256": "ed4ed56e8e5ed98db050af09ed2062b3b6bb7b93eab1e563cb6774b387b233a1",
+      "bytes": 175664
+    }
+  ]
+}

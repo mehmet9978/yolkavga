@@ -1,0 +1,8 @@
+.godot/
+builds/*
+!builds/.gitkeep
+*.keystore
+*.jks
+*.log
+.DS_Store
+docs/*.import
